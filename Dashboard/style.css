@@ -1,0 +1,35 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    padding: 0px;
+    margin:0px;
+    border: 0px;
+}
+
+/* container */
+.container{
+    width: 100vw;
+    height: 100vh;
+}
+
+
+/* welcome screen */
+.welcome{
+
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    z-index:1;
+}
+.welcome::before{
+    content:"";
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    inset: 0;
+    filter: blur(4px);
+    z-index: 0; 
+
+    background-image: url("./img/bg/2.jpg");
+    background-repeat: repeat;
+}
