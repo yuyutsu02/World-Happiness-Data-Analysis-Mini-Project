@@ -1,2 +1,2 @@
 # World-Happiness-Data-Analysis-Mini-Project
-I CLEAN , PROCESS , EXTRACT answers to 10 interesting question using 5 years data of countries , then create interactive visuals , dashboards.
+Exploratory Data Analysis (EDA) pipeline tracking socio-economic metrics over a 5-year global timeline to map statistical correlations between income, freedom indicators, and systemic growth anomalies
